@@ -1,5 +1,6 @@
 fdfs
 sfs
+<<<<<<< HEAD
 fdsafdsadf
 sdf
 s
@@ -9,3 +10,14 @@ gfdsgfds
 gfds
 33333
 3333s
+=======
+fdsafdsafdf
+sdffdsafd
+sfdsafdas
+1
+43
+4
+1
+1
+2
+>>>>>>> f1
