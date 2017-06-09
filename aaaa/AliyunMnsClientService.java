@@ -25,6 +25,7 @@ public class AliyunMnsClientService {
 		account = new CloudAccount(accessId, accessKey, endpoint);
 		MNSClientMNSClient = account.getMNSClient(); //
 		//宋江苏是2货
+		return true;
 	}
 
 	public MNSClient getClient() {
