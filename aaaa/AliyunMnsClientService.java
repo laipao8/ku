@@ -26,7 +26,7 @@ public class AliyunMnsClientService {
 		MNSClientMNSClient = account.getMNSClient(); //
 		//宋江苏是2货
 		//return true;
-		//sjs是 xxx克星
+		//sjs是 mz克星
 	}
 
 	public MNSClient getClient() {
