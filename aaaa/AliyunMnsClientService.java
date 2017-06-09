@@ -27,6 +27,6 @@ public class AliyunMnsClientService {
 	}
 
 	public MNSClient getClient() {
-		return client;
+		return MNSClient;
 	}
 }
