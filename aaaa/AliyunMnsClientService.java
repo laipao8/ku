@@ -23,10 +23,11 @@ public class AliyunMnsClientService {
 	@PostConstruct
 	private void init() {
 		account = new CloudAccount(accessId, accessKey, endpoint);
-		client = account.getMNSClient(); //
+		MNSClient = account.getMNSClient(); //
+		//宋江苏不要脸！
 	}
 
 	public MNSClient getClient() {
-		return getClient;
+		return MNSClient;
 	}
 }
